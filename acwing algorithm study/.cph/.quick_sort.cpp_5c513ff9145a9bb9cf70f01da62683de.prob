@@ -1,0 +1,1 @@
+{"name":"Local: quick_sort","url":"e:\\document\\算法\\acwing 算法基础\\quick_sort.cpp","tests":[{"id":1631942957607,"input":"5\n3 1 2 4 5","output":"1 2 3 4 5"},{"id":1631943184408,"input":"2\n0 1","output":"0 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\document\\算法\\acwing 算法基础\\quick_sort.cpp","group":"local","local":true}
