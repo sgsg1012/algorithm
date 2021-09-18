@@ -1,0 +1,1 @@
+{"name":"Local: erfen","url":"e:\\document\\algorithm\\acwing_algorithm_study\\erfen.cpp","tests":[{"id":1631980388114,"input":"6 3\n1 2 2 3 3 4\n3\n4\n5","output":"3 4\n5 5\n-1 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\document\\algorithm\\acwing_algorithm_study\\erfen.cpp","group":"local","local":true}
