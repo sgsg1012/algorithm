@@ -1,2 +1,5 @@
-线性DP
-    
+2 线性DP
+    2_1 数字三角形 https://www.acwing.com/problem/content/900/
+    2_2 最长上升子序列 https://www.acwing.com/problem/content/897/
+    2_3 最长公共子序列 https://www.acwing.com/problem/content/897/
+    2_4 最短编辑距离 https://www.acwing.com/problem/content/904/

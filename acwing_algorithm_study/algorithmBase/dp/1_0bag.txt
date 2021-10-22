@@ -1,1 +1,5 @@
-背包
+1 背包
+    1_1 01背包 https://www.acwing.com/problem/content/2/
+    1_2 完全背包 https://www.acwing.com/problem/content/3/
+    1_3 多重背包 https://www.acwing.com/problem/content/5/
+    1_4 分组背包 https://www.acwing.com/problem/content/9/
