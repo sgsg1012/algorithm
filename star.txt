@@ -1,2 +1,5 @@
 树的重心：https://www.acwing.com/problem/content/848/
 有向图的拓扑序列：https://www.acwing.com/problem/content/850/
+最长上升子序列：https://leetcode-cn.com/problems/minimum-operations-to-make-the-array-k-increasing/
+dp之正则表达式匹配：https://leetcode-cn.com/problems/regular-expression-matching/
+神奇二分：https://leetcode-cn.com/problems/minimized-maximum-of-products-distributed-to-any-store/

@@ -1,3 +1,4 @@
+/* https://codeforces.com/contest/1618/problem/C */
 #include<iostream>
 #include<vector>
 #include<algorithm>
@@ -7,7 +8,7 @@ long long myfind(vector<long long> a)
 {
     int len =a.size();
     long long mn=1e18+1;
-    int mnidx=0;
+    int  mnidx=0;
     while(1)
     {
         int idx=0;
@@ -92,17 +93,6 @@ int main()
     {
         solve();
     }
-    system("pause");
+    // system("pause");
     return 0;
-}
-//ac
-int len=a.size();
-for(int i=0;i<len-1;i++)
-{
-    //代码
-}
-//re
-for(int i=0;i<a.size()-1;i++)
-{
-    //代码
 }

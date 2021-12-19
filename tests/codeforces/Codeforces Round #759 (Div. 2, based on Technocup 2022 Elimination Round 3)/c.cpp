@@ -1,3 +1,4 @@
+/* https://codeforces.com/contest/1591/problem/C */
 #include<iostream>
 #include<algorithm>
 #include<vector>
@@ -44,6 +45,6 @@ int main()
         // if(dist.size()>0) ans+=dist[dist.size()-1];
         cout<<ans<<endl;
     }
-    system("pause");
+    // system("pause");
     return 0;
 }

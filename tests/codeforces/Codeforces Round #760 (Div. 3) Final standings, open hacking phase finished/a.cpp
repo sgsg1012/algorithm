@@ -1,3 +1,4 @@
+/* https://codeforces.com/contest/1618/problem/A */
 #include<iostream>
 using namespace std;
 int a[7];

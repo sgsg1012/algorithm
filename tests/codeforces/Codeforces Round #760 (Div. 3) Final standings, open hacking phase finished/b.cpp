@@ -1,3 +1,4 @@
+/* https://codeforces.com/contest/1618/problem/B */
 #include<iostream>
 #include<vector>
 using namespace std;
@@ -29,6 +30,6 @@ int main()
     {
         solve();
     }
-    system("pause");
+    // system("pause");
     return 0;
 }
